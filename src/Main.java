@@ -70,6 +70,7 @@ public class Main {
         }
     }
     public static void task5 () {
+        System.out.println("Задача 5");
         int monthNumber = 13;
         switch (monthNumber) {
             case 1:
